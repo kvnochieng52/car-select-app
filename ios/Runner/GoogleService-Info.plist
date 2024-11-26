@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622627495699-9fkit32qb4h21jhvs6ipqmv0b25kekq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622627495699-9fkit32qb4h21jhvs6ipqmv0b25kekq7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>622627495699-ji4i855u559mpan76sm7mk9afprd8hgo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOLkm7LSwsG3BqPxmSinh4cp5x8pK3kbI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622627495699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.justapartments.app</string>
+	<key>PROJECT_ID</key>
+	<string>just-apartment-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>just-apartment-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622627495699:ios:10158b1d7c8b6b167c84e6</string>
+</dict>
+</plist>
